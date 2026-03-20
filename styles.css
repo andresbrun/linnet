@@ -461,6 +461,15 @@ img {
   color: var(--muted);
 }
 
+.signal-link {
+  margin-top: 10px;
+}
+
+.signal-link a {
+  color: var(--accent-strong);
+  font-weight: 800;
+}
+
 .signal-pills {
   display: flex;
   flex-wrap: wrap;
